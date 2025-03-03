@@ -1,0 +1,83 @@
+    1  pwd
+    2  cd desktop
+    3  cd ödev
+    4  git config --global user.name
+    5  git config --global user.email
+    6  git clone https://github.com/Esma214/HW_10.git
+    7  cd HW_10
+    8  touch text_ignore.txt
+    9  ls
+   10  nano .gitignore
+   11  cd desktop
+   12  cd SQL
+   13  clear
+   14  cd desktop
+   15  cd ödev
+   16  cd desktop
+   17  cd ödev
+   18  cd deskktop
+   19  cd ödev2
+   20  cd desktop
+   21  cd ödev2
+   22  git config --global user.name
+   23  git config --global user.email 
+   24  clone https://github.com/Esma214/HW_11.git
+   25  git clone https://github.com/Esma214/HW_11.git
+   26  cd HW_11
+   27  cd desktop
+   28  cd ödev
+   29  cd HW_10
+   30  git status
+   31  git status
+   32  git rm --cached text_ignore.txt
+   33  git status
+   34  git status
+   35  git rm --cached text_ignore.txt
+   36  git status
+   37  git rm -r --cached.
+   38  git rm -r --cached .
+   39  git add .
+   40  git commit -m "Updated.gitignore to ignore text_ignore.txt"
+   41  git commid
+   42  git status
+   43  git add .
+   44  git commit
+   45  git commit -m "ilk versiyon"
+   46  git add .
+   47  git commit -m "ilk versiyon"
+   48  cd desktop
+   49  cd ödev
+   50  cd HW_10 
+   51  git status
+   52  git add .
+   53  git commit -m "ilk versiyon"
+   54  touch main_test.txt
+   55  git add .
+   56  git commit
+   57  cd desktop
+   58  cd ödev
+   59  cd HW_10
+   60  git add .
+   61  git commit -m "ikinci versiyon"
+   62  git status
+   63  git branch
+   64  git branch developer
+   65  git branch
+   66  git checkout developer
+   67  git branch
+   68  touch develop_test.txt
+   69  git add .
+   70  git commit -m "üçüncü versiyon"
+   71  git status
+   72  git status
+   73  git status
+   74  git add .
+   75  git commit -m "üçüncü versiyon"
+   76  git checkout main
+   77  git branch
+   78  git merge developer
+   79  git log
+   80  cd desktop
+   81  cd ödev
+   82  cd HW_10
+   83  history > command_list.csv
